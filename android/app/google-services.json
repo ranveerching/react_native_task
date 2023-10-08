@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652515533953",
+    "project_id": "clavertap-3ec08",
+    "storage_bucket": "clavertap-3ec08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652515533953:android:cf6e2abc52026182639980",
+        "android_client_info": {
+          "package_name": "com.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSF2Mw8OBVjbowFpASHemAHkQ2I7CPie8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
